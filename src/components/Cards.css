@@ -1,0 +1,29 @@
+.cards-list{ 
+    min-height: 50px;
+    min-width: 30px;
+    background-color: aliceblue;
+    padding: 1em 0em 2em 0em;
+    display:block;
+    border-radius: 20%;
+} 
+
+.cards-list:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    background-color: #e8e8e8;
+}
+
+.card-name{
+    color: black;
+    font-size: large;
+}
+
+.card-cuisine{
+    color: black;
+    font-size:medium; 
+}
+
+a {
+  color:azure;
+  text-decoration: none;
+}

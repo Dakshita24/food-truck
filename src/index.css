@@ -1,0 +1,21 @@
+
+:root {
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: lightblue;
+}
+
+a {
+  font-weight: 200;
+}
+
+body {
+  margin: 0;
+  min-width: 120px;
+  min-height: 100px;
+}
+
+h1 {
+  font-size: 6rem;
+}
+

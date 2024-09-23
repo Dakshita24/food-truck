@@ -1,0 +1,31 @@
+#root{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: whitesmoke;
+  background-color: lightblue;
+} 
+
+body {
+  margin: 0;
+  min-width: 320rem;
+  min-height: 100rem;
+  background-color: blueviolet;
+} 
+
+.btn{
+  background-color: red;
+  padding: 0.6em 1.2em;
+  border-radius: 0.7em;
+  border: none;
+}
+
+.cards-format{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+
+
