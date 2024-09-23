@@ -7,13 +7,13 @@ Time spent: 1.5 hrs
 
 ## Required Features
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
