@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5VghYyC"  ><a href="//imgur.com/a/5VghYyC">proj 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://drive.google.com/file/d/1wN2pcDacwr1wvk1pUtMGTRMOga_NzoUq/view?usp=sharing">Video</a>
 
 GIF created with Licecap 
 
