@@ -17,7 +17,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented required features:
-<img src="https://imgur.com/iY0Z8nB" title='Video Walkthrough' width='' alt='Video Walkthrough'>
+<blockquote class="imgur-embed-pub" lang="en" data-id="iY0Z8nB"><a href="https://imgur.com/iY0Z8nB">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with Licecap 
 
